@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role_contains">
+    <sys_user_role_contains action="INSERT_OR_UPDATE">
+        <contains display_value="x_888088_innovate.employee" name="x_888088_innovate.employee">839421f91bb911108ec2ff37dc4bcbf5</contains>
+        <role display_value="x_888088_wish_list.user" name="x_888088_wish_list.user">e7e5008f1b3551108ec2ff37dc4bcb3e</role>
+        <sys_class_name>sys_user_role_contains</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-12 10:46:43</sys_created_on>
+        <sys_id>55dbd6471b7d51108ec2ff37dc4bcbc9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_888088_innovate.employee.x_888088_wish_list.user</sys_name>
+        <sys_package display_value="Wish List" source="x_888088_wish_list">25d5448f1b3551108ec2ff37dc4bcb42</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Wish List">25d5448f1b3551108ec2ff37dc4bcb42</sys_scope>
+        <sys_update_name>sys_user_role_contains_55dbd6471b7d51108ec2ff37dc4bcbc9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-12 10:46:43</sys_updated_on>
+    </sys_user_role_contains>
+</record_update>
